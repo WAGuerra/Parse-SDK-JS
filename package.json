@@ -1,6 +1,6 @@
 {
-  "name": "parse",
-  "version": "2.15.0",
+  "name": "@wladimirguerra/parse",
+  "version": "2.15.1",
   "description": "The Parse JavaScript SDK",
   "homepage": "https://parseplatform.org/",
   "keywords": [
@@ -31,7 +31,7 @@
   "dependencies": {
     "@babel/runtime-corejs3": "7.10.4",
     "@babel/runtime": "7.10.4",
-    "crypto-js": "4.0.0",
+    "crypto-js": "3.3.0",
     "react-native-crypto-js": "1.0.0",
     "uuid": "3.4.0",
     "ws": "7.3.1",
